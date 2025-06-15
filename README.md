@@ -1,17 +1,19 @@
-# insertion-sort-
-program insertion sort c++ untuk tugas
-# Insertion Sort in C++
+# Insertion Sort - C++
 
-Program ini merupakan implementasi algoritma *Insertion Sort* menggunakan bahasa pemrograman *C++*.
+Program ini dibuat untuk mengurutkan data menggunakan algoritma *Insertion Sort* dalam bahasa C++.  
+Algoritma ini bekerja dengan menyisipkan elemen satu per satu ke posisi yang sesuai, sehingga lama-lama seluruh array jadi urut.
 
-### 🧠 Tentang Algoritma
-Insertion Sort adalah algoritma pengurutan sederhana yang bekerja dengan cara menyisipkan setiap elemen ke posisi yang sesuai dalam bagian array yang sudah diurutkan.
+## 🔧 Cara kerja program
+- Program mencetak isi array sebelum diurutkan.
+- Memproses elemen satu per satu, dimulai dari elemen kedua.
+- Jika ada elemen yang lebih besar sebelumnya, elemen itu digeser.
+- Setelah itu, elemen yang sedang dicek dimasukkan ke posisi yang sesuai.
+- Hasil akhirnya adalah array yang sudah terurut dari kecil ke besar.
 
-### 📌 Fitur Program
-- Mengurutkan array integer
-- Menampilkan array sebelum dan sesudah diurutkan
+## Tujuan
+- Melatih pemahaman tentang sorting dasar.
+- Menunjukkan proses penyisipan data dalam pengurutan.
 
-### 📄 Contoh Output
-### penulis
-April dwi amalia
-tugas algoritma dan pemrograman
+## 👩‍💻 Penulis
+*April Dwi Amalia*  
+Tugas Algoritma & Pemrograman
